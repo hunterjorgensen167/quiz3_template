@@ -1,0 +1,24 @@
+{
+  "name": "quiz3_template",
+  "version": "1.0.0",
+  "description": "Source code for Quiz 3 for Web Dev ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterjorgensen167/quiz3_template.git"
+  },
+  "author": "Hunter Jorgensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterjorgensen167/quiz3_template/issues"
+  },
+  "homepage": "https://github.com/hunterjorgensen167/quiz3_template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "uuid": "^7.0.2"
+  }
+}
